@@ -1,0 +1,9 @@
+.movieCard{
+    display: flex;
+}
+
+.genre{
+    text-align: start;
+    margin-left: 20px ;
+    font-size: 28px;
+}
